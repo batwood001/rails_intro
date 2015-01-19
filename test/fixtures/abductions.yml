@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  earthling_id: 
+  martian_id: 
+
+two:
+  earthling_id: 
+  martian_id: 
